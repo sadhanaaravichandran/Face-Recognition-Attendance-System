@@ -13,6 +13,30 @@ Traditional attendance systems are time-consuming and prone to errors. Proxy att
 - Prevent proxy attendance.
 - Generate attendance reports.
 
+## Modules
+Module 1: Face Data Collection
+Capture face images of users.
+Create the face dataset.
+Module 2: Face Preprocessing
+Resize, crop, and normalize images.
+Improve image quality for training.
+Module 3: Face Detection
+Detect faces from webcam input using OpenCV.
+Extract face regions from frames.
+Module 4: Face Recognition
+Train the recognition model.
+Identify registered users in real time.
+Module 5: Attendance Management
+Automatically mark attendance.
+Record date and time.
+Avoid duplicate entries.
+Module 6: Database and Report Management
+Store user details and attendance records.
+Generate attendance reports.
+Module 7: Testing and Evaluation
+Measure recognition accuracy.
+Validate system performance.
+
 ## Technologies Used
 - Python
 - OpenCV
